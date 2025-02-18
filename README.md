@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ArthurGui004
 - 🌱 I’m currently learning Python (turtle and POO)
 - 📫 How to reach me:
-- Cellphone: +55 84 99999-6047
 - Email: arthur14gui@gmail.com
 
 
