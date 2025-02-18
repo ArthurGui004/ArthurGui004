@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArthurGui004
-- 🌱 I’m currently learning Python (turtle and POO)
+- 🌱 I’m currently learning IA, Machine Learning, Deep Learning
 - 📫 How to reach me:
 - Email: arthur14gui@gmail.com
 
